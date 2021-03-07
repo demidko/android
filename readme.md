@@ -8,3 +8,8 @@ Financial app for the lazy by [Relizz's concept](https://www.figma.com/file/Fjvh
 
 1. Run command `./gradlew assembleBeta` in the repo.
 1. Your app will be located at `./app/build/outputs/apk/beta/*.apk`
+
+### Todo
+1. Status bar color by concept
+1. Background color by concept
+1. Text
