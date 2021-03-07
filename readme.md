@@ -8,8 +8,8 @@ by [Relizz's concept](https://www.figma.com/file/FjvhOfJJbaFBtRYMcJVnHm/%D0%94%D
 
 ### Build
 
-1. Run command `./gradlew assembleBeta` in the repo.
-1. Your app will be located at `./app/build/outputs/apk/beta/*.apk`
+Run command `./gradlew assembleBeta` in the repo. Your app will be located
+at `./app/build/outputs/apk/beta/*.apk`
 
 ### Todo
 
