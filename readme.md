@@ -5,5 +5,5 @@ by [concept](https://www.figma.com/file/FjvhOfJJbaFBtRYMcJVnHm/%D0%94%D0%B5%D0%B
 
 ### Build
 
-1. Run command `./gradlew assembleOptimized` in the repo.
+1. Run command `./gradlew assembleBeta` in the repo.
 1. Your app will be located at `./app/build/outputs/apk/optimized/*.apk`

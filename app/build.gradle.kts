@@ -30,7 +30,7 @@ android {
       )
     }
 
-    register("optimized") {
+    register("beta") {
       isMinifyEnabled = true
       isShrinkResources = true
       proguardFiles(
