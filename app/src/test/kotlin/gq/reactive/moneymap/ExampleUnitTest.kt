@@ -1,5 +1,7 @@
 package gq.reactive.moneymap
 
+import com.natpryce.hamkrest.assertion.assertThat
+import com.natpryce.hamkrest.equalTo
 import org.junit.Test
 
 import org.junit.Assert.*
@@ -12,6 +14,6 @@ import org.junit.Assert.*
 class ExampleUnitTest {
   @Test
   fun addition_isCorrect() {
-    assertEquals(4, 2 + 2)
+    assertThat(2 + 2, equalTo(4))
   }
 }
