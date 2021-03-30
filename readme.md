@@ -6,7 +6,7 @@ Android application template with declarative modern ui framework.
 
 Make sure you are signed in to your GitHub account, then just click [`here`](https://github.com/demidko/android/generate) to use template.
 
-### How to build project?
+### Build
 
 Run command `./gradlew assembleBeta` in the repo. Your app will be located
 at `./app/build/outputs/apk/beta`
