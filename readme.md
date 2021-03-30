@@ -1,4 +1,4 @@
-## Android
+## `Android`
 
 Android application template with declarative modern ui.
 
