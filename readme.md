@@ -1,6 +1,6 @@
 ## `Android`
 
-Android application template with declarative modern ui.
+Android application template with declarative modern ui framework.
 
 ### Template usage
 
