@@ -2,7 +2,7 @@
 
 Android application template with declarative modern ui framework.
 
-### Template usage
+### Usage
 
 Make sure you are signed in to your GitHub account, then just click [`here`](https://github.com/demidko/android/generate) to use template.
 
