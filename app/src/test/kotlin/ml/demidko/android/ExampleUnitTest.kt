@@ -1,4 +1,4 @@
-package gq.reactive.moneymap
+package ml.demidko.android
 
 import com.natpryce.hamkrest.assertion.assertThat
 import com.natpryce.hamkrest.equalTo

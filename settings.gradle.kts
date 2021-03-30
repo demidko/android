@@ -8,5 +8,5 @@ dependencyResolutionManagement {
     gradlePluginPortal()
   }
 }
-rootProject.name = "Moneymap"
+rootProject.name = "Android"
 include(":app")

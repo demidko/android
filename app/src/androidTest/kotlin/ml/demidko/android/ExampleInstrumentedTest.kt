@@ -1,9 +1,9 @@
-package gq.reactive.moneymap
+package ml.demidko.android
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import com.natpryce.hamkrest.assertion.assertThat
-import com.natpryce.hamkrest.equalTo
+import com.natpryce.hamkrest.startsWith
 
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
   fun useAppContext() {
     // Context of the app under test.
     val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-    assertThat(appContext.packageName, equalTo("gq.reactive.moneymap"))
+    assertThat(appContext.packageName, startsWith("ml.demidko"))
   }
 }

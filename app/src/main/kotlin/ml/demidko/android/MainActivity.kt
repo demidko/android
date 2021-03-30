@@ -1,4 +1,4 @@
-package gq.reactive.moneymap
+package ml.demidko.android
 
 import android.os.Bundle
 import androidx.activity.compose.setContent
@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
     setContent {
-      MoneymapTheme {
+      CustomTheme {
         Surface {
           Text("Android")
         }
